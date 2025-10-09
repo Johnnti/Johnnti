@@ -22,7 +22,7 @@ I combine a strong theoretical foundation (Data Structures, Algorithms, Linear A
 **Grambling State University** | Bachelor of Science, Computer Science | Expected Dec. 2027 
 
 * **GPA: 4.0** 🥇
-* **Relevant Coursework:** Data Structures and Algorithms, Discrete Structures, Calculus, Linear Algebra, Probability and Statistics[cite: 7].
+* **Relevant Coursework:** Data Structures and Algorithms, Discrete Structures, Calculus, Linear Algebra, Probability and Statistics.
 
 ---
 
