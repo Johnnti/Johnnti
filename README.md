@@ -29,5 +29,5 @@ I combine a strong theoretical foundation (Data Structures, Algorithms, Linear A
 ### 📫 Let's Connect!
 
 * **Email:** [johnntianokye@gmail.com](mailto:johnntianokye@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/john-nti-anokye] (My LinkedIn) 🔗
-* **GitHub:** [https://github.com/Johnnti] (You're already here!) 🐈
+* **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/john-nti-anokye) 🔗
+* **GitHub:** [You're already here](https://github.com/Johnnti) 🐈
