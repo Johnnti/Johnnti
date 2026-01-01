@@ -14,7 +14,7 @@ I combine a strong theoretical foundation (Data Structures, Algorithms, Linear A
 | :--- | :--- | :--- |
 | **Languages** | **Python**, **C++**, **JavaScript**, TypeScript, Java, Kotlin, SQL | Strong fundamentals across high-level and system languages. |
 | **AI/ML/Data** | Pandas, Numpy, **Scikit-learn**, **Tensorflow**, Open CV | Applied machine learning for automation and data analysis. 📊 |
-| **Web Dev** | **React**, **Next.js**, Tailwind CSS, AppWrite, MongoDB | Building responsive, high-performance web applications. 🌐 |
+| **Web Dev** | **React**, **Next.js**, Tailwind CSS, MongoDB | Building responsive, high-performance web applications. 🌐 |
 | **DevOps/Tools** | Git, Linux, VIM, Android Studio, Visual Studio, Jupyter Notebooks | Practicing agile workflows and rapid prototyping in intensive sprints. ⚙️ |
 
 ### 🎓 Education
